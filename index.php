@@ -3,6 +3,14 @@
 //Inizializzata variabile//
 $text = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusantium itaque ducimus voluptates ad illum quod, magni necessitatibus assumenda ipsum, natus quibusdam quas ullam est eos atque tempora, architecto magnam!';
 
+var_dump(strlen($text));
+
+
+
+
+// $array = explode(",", $text);
+// var_dump($array);
+
 ?>
 
 
